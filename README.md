@@ -128,9 +128,9 @@ cv2.waitKey(0)
 
 ## And this was the output
 
-<!-- <img src = "https://github.com/Govindbro/Shape_Dectection_Opencv/blob/master/shape.jpg"> -->
+<img src = "https://github.com/Govindbro/Shape_Dectection_Opencv/blob/master/Output.png">
 <br>
-**need to update output image**
+
 
 
 Refer this repository for the source code
